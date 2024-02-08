@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: test the creation from template
 date: 2024-02-08 19:24
 category: test
-tags: note, howto
+tags: note howto
 slug: 
 author: matthiasdaues
 ---
