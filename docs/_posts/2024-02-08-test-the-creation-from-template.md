@@ -13,6 +13,12 @@ bibliography: [/home/matthiasdaues/Zotero/export/zotero.bib]
 
 ---
 
+- [problem](#problem)
+- [context](#context)
+- [solution](#solution)
+
+
+
 ## problem
 
 How can I use real citations and references to sources via bibtex / zotero in a markdown based github-pages workflow?
