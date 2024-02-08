@@ -6,6 +6,7 @@ category: test
 tags: note howto
 slug: 
 author: matthiasdaues
+bibliography: [/home/matthiasdaues/Zotero/export/zotero.bib]
 ---
 
 *created:  2024-02-08 - 19:24*
