@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Blogging Like a Hacker
+title: Hello World!
+tagline: assorted notes and findings
 ---
+
+
 
 hello world
