@@ -40,5 +40,8 @@ It will take some effort to make it work for me, though.
 
 - Carpenter, Josh. 2021. ‘Plaintext References Management with Markdown and Zotero - Josh Carpenter’. Josh Carpenter, Portfolio & Notes. 18 February 2021. https://joshcarpenter.ca/plain-text-refs-mgmt/.
 
+- inukshuk. 2023. ‘Inukshuk/Jekyll-Scholar: Jekyll Extensions for the Blogging Scholar’. Github repository. 22 February 2023. https://github.com/inukshuk/jekyll-scholar.
+
+
 - Martinez, Cecelia. 2022. ‘Use VS Code Snippets to Generate Markdown Front Matter’. DEV Community. 20 January 2022. https://dev.to/ceceliacreates/use-vs-code-snippets-to-generate-markdown-front-matter-fpc.
 
