@@ -5,4 +5,4 @@ tagline: assorted notes and findings
 ---
 # datenschoenheit
 
-|  [notes]()  |  [about]()  |  [contact]()  |
+|  [notes](./notes/)  |  [about]()  |  [contact]()  |
