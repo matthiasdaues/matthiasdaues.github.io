@@ -1,6 +1,3 @@
 ---
-layout: page
-tagline: assorted notes and findings
+layout: home
 ---
-
-|  [notes](./notes/)  |  [about]()  |  [contact]()  |
