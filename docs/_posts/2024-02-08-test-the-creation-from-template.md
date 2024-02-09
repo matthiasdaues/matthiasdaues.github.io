@@ -40,6 +40,10 @@ It will take some effort to make it work for me, though.
 
 - Carpenter, Josh. 2021. ‘Plaintext References Management with Markdown and Zotero - Josh Carpenter’. Josh Carpenter, Portfolio & Notes. 18 February 2021. https://joshcarpenter.ca/plain-text-refs-mgmt/.
 
+
+- Danks, Gemma. 2022. ‘How to Use Jekyll-Scholar with GitHub Pages’. Gemma’s Open Research. 23 November 2022. https://open-research.gemmadanks.com/tutorials/how-to-use-jekyll-scholar-with-github-pages/.
+
+
 - inukshuk. 2023. ‘Inukshuk/Jekyll-Scholar: Jekyll Extensions for the Blogging Scholar’. Github repository. 22 February 2023. https://github.com/inukshuk/jekyll-scholar.
 
 
