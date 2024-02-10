@@ -1,6 +1,8 @@
 title: datenschoenheit
 author:
-  name: matthiasdaues
+  name   : "Matthias Daues"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "go and catch falling star. meanwhile: geoprocessing, databases and gis."
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -14,6 +16,7 @@ description: >
 # If you clone the Minima repo and build locally, use this setting.
 # theme: minima
 remote_theme: jekyll/minima
+timezone: 	Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -23,6 +26,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-scholar
 
 # Theme-specific settings
 
